@@ -1,5 +1,4 @@
-pandas
-pandas-profiling
 streamlit
-streamlit-pandas-profiling
-setuptools
+pandas
+ydata-profiling
+openpyxl
